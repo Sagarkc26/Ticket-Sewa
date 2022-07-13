@@ -20,7 +20,7 @@ class DrawerPage extends StatelessWidget {
                   decoration: const BoxDecoration(
                     shape: BoxShape.circle,
                     image: DecorationImage(
-                      image: AssetImage("images/hero.jpg"),
+                      image: AssetImage("images/hello.png"),
                       fit: BoxFit.fill,
                     ),
                   ),
