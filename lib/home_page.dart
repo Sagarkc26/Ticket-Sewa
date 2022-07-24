@@ -24,6 +24,10 @@ class _HomePageState extends State<HomePage> {
                   title: Text("Bike || Scooter"),
                 ),
                 ListTile(
+                  leading: Icon(Icons.airplane_ticket),
+                  title: Text("Airplane"),
+                ),
+                ListTile(
                   leading: Icon(Icons.flight),
                   title: Text("Flight"),
                 ),
